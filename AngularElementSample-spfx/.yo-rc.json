@@ -1,0 +1,14 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.8.2",
+    "libraryName": "angular-element-sample-spfx",
+    "libraryId": "22a7145b-37f6-47e6-a037-e14487ac06ce",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "AngularElementSample-spfx",
+    "framework": "none",
+    "isCreatingSolution": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "angular-element-sample-spfx-client-side-solution",
+    "id": "22a7145b-37f6-47e6-a037-e14487ac06ce",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/angular-element-sample-spfx.sppkg"
+  }
+}
